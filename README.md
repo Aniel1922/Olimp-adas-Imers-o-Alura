@@ -35,6 +35,8 @@ Se tiver alguma dúvida, é só abrir uma issue aqui no GitHub!
 
 **Vamos juntos fazer essa aplicação ainda mais incrível!** 
 
+Segue a URL da aplicação Vercel: https://olimp-adas-imers-o-alura.vercel.app/
+
 ---
 
 **# BuscaDeAtletas #JavaScript #WebDev #Olimpiadas**
