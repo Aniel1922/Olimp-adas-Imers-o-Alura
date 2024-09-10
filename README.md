@@ -1,5 +1,5 @@
-```markdown
-## **README.md Descontraído para o seu Projeto de Pesquisa de Atletas**
+
+## **README.md Desvendando atletas - Imersão Dev com Google Gemini**
 
 ### **Título: Busca Rápida de Atletas Brasileiros **
 
